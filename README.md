@@ -11,7 +11,7 @@ This is a repository for learning Kubernetes, where you will learn basic to adva
 
 ## Contents
 
-This repository that based by chapter : 
+This repository that based on the chapter : 
 
 - Chapter 1 : Before Learn Kubernetes ([Handbook MD](https://hackmd.io/@hilmimusyafa/r1BMCFei0), [Github]())
 - Chapter 2 : What is Kubernetes ? ([Handbook MD](https://hackmd.io/@hilmimusyafa/SJQ5fnej0), [Github]())
@@ -19,7 +19,7 @@ This repository that based by chapter :
 - Chapter 4 : Basic of Kubernetes ([Handbook MD](https://hackmd.io/@hilmimusyafa/H1ggUO-s0), [Github]())
 - Chapter 5 : Probes & Pod Manging ([Handbook MD](https://hackmd.io/@hilmimusyafa/Hk4bb0bsR), [Github]())
 - Chapter 6 : Workload Management ([Handbook MD](https://hackmd.io/@hilmimusyafa/ryyIWAWjC), [Github]())
-- Chapter 7 : Chapter 7 : Networking & Service Access ([Handbook MD](https://hackmd.io/@hilmimusyafa/Bkg9ZC-j0), [Github]())
+- Chapter 7 : Networking & Service Access ([Handbook MD](https://hackmd.io/@hilmimusyafa/Bkg9ZC-j0), [Github]())
 
 ## License
 
